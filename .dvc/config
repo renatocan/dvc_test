@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://renato@localhost/home/renato/Desktop/test_data
+    user = renato
